@@ -15,7 +15,7 @@ This Policy covers the App’s own practices and, where applicable, the practice
 <br>
 
 ## 1. What we collect and why
-Short summary: The App is designed to let users browse, preview, download, and export community-created mod files for Fruit Playground. The App does not require account registration and does not collect personal data by default. To provide and improve the Service we may store files and preferences locally on your device, show third-party ads, and—only if you opt in—use optional features that collect more information. Where third-party services operate (for example ad networks), their own policies apply.
+Short summary: The App is designed to let users browse, preview, download, and export community-created mod files for Melon Playground. The App does not require account registration and does not collect personal data by default. To provide and improve the Service we may store files and preferences locally on your device, show third-party ads, and—only if you opt in—use optional features that collect more information. Where third-party services operate (for example ad networks), their own policies apply.
 
 We use information only to provide, secure, and improve the Service, to comply with legal obligations, to communicate service-related messages, or to deliver advertising if enabled. Where required by law (for users in the EEA, UK, and Switzerland — the "Designated Countries") we rely on contract performance, legitimate interests, or your consent as the legal basis for processing described below.
 
