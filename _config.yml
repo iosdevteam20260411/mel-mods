@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover. Download. Play. Mods for Melon Playground.
+app_description                           : Discover. Download. Play. Mods.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -37,43 +37,7 @@ mastodon_link                             :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : Massive Mod Library
-    description                           : Browse a huge collection of addons, characters, items, and maps for Melon Playground—updated regularly.
-    fontawesome_icon_name                 : cubes
-    
-  - title                                 : One-Tap Installation
-    description                           : Install mods instantly with a simple tap. No complicated steps—just download and play.
-    fontawesome_icon_name                 : bolt
-
-  - title                                 : High-Quality Previews
-    description                           : View clean screenshots and detailed previews before installing any mod.
-    fontawesome_icon_name                 : image
-
-  - title                                 : Fast & Lightweight
-    description                           : Smooth performance with optimized loading so you can find and download mods quickly.
-    fontawesome_icon_name                 : feather
-
-  - title                                 : Favorites & Quick Access
-    description                           : Save your favorite mods and access them instantly from your personal list.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Regular Updates
-    description                           : New mods and content added weekly to keep your Fruit Playground experience fresh.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Safe & Verified Content
-    description                           : All mods are manually reviewed to ensure quality and safe usage.
-    fontawesome_icon_name                 : shield-alt
-
-  - title                                 : Clean, Modern UI
-    description                           : Enjoy a smooth, polished interface designed for fast browsing and easy navigation.
-    fontawesome_icon_name                 : mobile-alt
-
-
-
   
-
 
 
 # Theme Settings
